@@ -1,0 +1,53 @@
+body {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	background-color: black;
+	color: #ffffff;
+}
+@font-face {
+	font-family: "Ebbe";
+	src: url(ofont.ru_Old\ Horror\ Films.ttf);
+}
+canvas {
+	border: 13px solid rgb(153, 11, 89);
+	margin: 20px auto;
+}
+#balance {
+	color: rgb(153, 11, 89);
+	font-weight: bold;
+	font-size: 55px;
+	font-family: "Ebbe";
+}
+#text{
+	 font-size: 40px;
+	 margin: 2px;
+	 font-family: "Ebbe";
+	
+}
+#priseClick{
+	 font-size: 30px;
+	 color: rgb(153, 11, 89);
+	 font-family: "Ebbe";
+}
+.button{
+	font-size: 28px;
+	font-family: "Ebbe";
+
+	
+}
+#SpeedClick{
+	 font-size: 30px;
+	 color: rgb(153, 11, 89);
+	 font-family: "Ebbe";
+}
+#helpClick{
+	 font-size: 30px;
+	 color: rgb(153, 11, 89);
+	 font-family: "Ebbe";
+}
+#level{
+	font-size: 30px;
+	 color: rgb(153, 11, 89);
+	 font-family: "Ebbe";
+}
